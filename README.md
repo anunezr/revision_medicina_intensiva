@@ -9,9 +9,24 @@ Vamos a utilizar este ejemplo para practicar una serie de modelos predictivos co
 Nuestro objetivo es conseguir el modelo con la mejor AUROC.
 
 Los modelos que utilizaremos son:
+
 Perceptron
+
 Linear regression
+
 SVM
+
 Decision trees
+
 Ensemble models
+
 Deep learning
+
+Cuadernos:
+
+1) Estadistica básica: realizamos un análisis preliminar de los datos usando las bibliotecas de Python para ello. Esto puede hacerse también en R.
+
+2) Perceptron: utilizamos un perceptron como modelo predictivo
+
+
+
